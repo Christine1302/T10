@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c347cac.css",
+    "main.js": "/static/js/main.2234863c.js",
+    "static/js/453.ea1e9233.chunk.js": "/static/js/453.ea1e9233.chunk.js",
+    "static/media/Boys Circle .jpg": "/static/media/Boys Circle .0c4f50af5f20ffa5c957.jpg",
+    "static/media/Rita and the crew .jpg": "/static/media/Rita and the crew .05ff58004201d0301356.jpg",
+    "index.html": "/index.html",
+    "main.5c347cac.css.map": "/static/css/main.5c347cac.css.map",
+    "main.2234863c.js.map": "/static/js/main.2234863c.js.map",
+    "453.ea1e9233.chunk.js.map": "/static/js/453.ea1e9233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c347cac.css",
+    "static/js/main.2234863c.js"
+  ]
+}
